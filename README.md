@@ -1,5 +1,13 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+## Disclaimer
+
+This repository is a personal project intended for educational and experimental purposes. The information and functionality provided herein may not be accurate and should not be considered a reliable source of information.
+
+This project is not associated with or endorsed by the Sri Lankan government or its tax portfolio. It is designed solely to demonstrate and practice various technologies and development techniques.
+
+If you have any concerns or questions, please feel free to [email me](mailto:sivarajyukash@gmail.com). I hope you find the app enjoyable and informative!
+
 ## Getting Started
 
 First, run the development server:
